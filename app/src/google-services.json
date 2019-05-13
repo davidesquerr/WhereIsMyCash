@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502013755028",
+    "firebase_url": "https://where-my-cash.firebaseio.com",
+    "project_id": "where-my-cash",
+    "storage_bucket": "where-my-cash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502013755028:android:fb7c86a69f81995f",
+        "android_client_info": {
+          "package_name": "com.example.whereismycash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502013755028-qrescf3htqgb2ovhhbe2fgl5ubag7ekm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoyOVbQFEIwK2hzP4x3zDFSjBbgoZA-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502013755028-qrescf3htqgb2ovhhbe2fgl5ubag7ekm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
